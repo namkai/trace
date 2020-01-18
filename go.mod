@@ -1,3 +1,3 @@
-module github.com/namkai/trace/m/v2
+module github.com/namkai/trace
 
 go 1.13
